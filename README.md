@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharukesh&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sharukesh?label=Followers&style=for-the-badge&color=00d4ff" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sharukesh?label=Stars&style=for-the-badge&color=00d4ff" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Sharukesh3&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sharukesh3?label=Followers&style=for-the-badge&color=00d4ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Sharukesh3?label=Stars&style=for-the-badge&color=00d4ff" alt="GitHub Stars" />
 </div>
 
 ## 🌟 About Me
@@ -69,24 +69,24 @@ const aiEngineer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharukesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharukesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharukesh3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharukesh3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharukesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharukesh3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharukesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharukesh3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharukesh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharukesh3&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Academic Projects Portfolio
@@ -116,11 +116,11 @@ const aiEngineer = {
 ## 🌟 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/sharukesh/microbiome-causality">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharukesh&repo=microbiome-causality&theme=tokyonight&hide_border=true" alt="Microbiome Analysis" />
+  <a href="https://github.com/Sharukesh3/microbiome-causality">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharukesh3&repo=microbiome-causality&theme=tokyonight&hide_border=true" alt="Microbiome Analysis" />
   </a>
-  <a href="https://github.com/sharukesh/gesture-controlled-robot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharukesh&repo=gesture-controlled-robot&theme=tokyonight&hide_border=true" alt="Gesture Robot" />
+  <a href="https://github.com/Sharukesh3/gesture-controlled-robot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharukesh3&repo=gesture-controlled-robot&theme=tokyonight&hide_border=true" alt="Gesture Robot" />
   </a>
 </div>
 
