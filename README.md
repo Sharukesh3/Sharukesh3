@@ -169,10 +169,10 @@ const aiEngineer = {
 
 <div align="center">
   <a href="https://github.com/Sharukesh3/Skin-Lesion-Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharukesh3&repo=microbiome-causality&theme=tokyonight&hide_border=true" alt="Microbiome Analysis" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharukesh3&repo=Skin-Lesion-Classification&theme=tokyonight&hide_border=true" alt="Microbiome Analysis" />
   </a>
   <a href="https://github.com/Sharukesh3/LLM-for-hydrogen-storage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharukesh3&repo=gesture-controlled-robot&theme=tokyonight&hide_border=true" alt="Gesture Robot" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharukesh3&repo=LLM-for-hydrogen-storage&theme=tokyonight&hide_border=true" alt="Gesture Robot" />
   </a>
 </div>
 
