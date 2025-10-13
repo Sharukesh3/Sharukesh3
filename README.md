@@ -161,7 +161,7 @@ const aiEngineer = {
 ## 🎓 Education & Certifications
 
 **🎓 B.Tech in Artificial Intelligence & Data Science**  
-*Amrita School of AI, Amrita Vishwa Vidyapeetham* | **CGPA: 8.54**
+*Amrita School of AI, Amrita Vishwa Vidyapeetham* | **CGPA: 8.61**
 
 **📜 Pursuing Diploma in Programming and Data Science**
 
