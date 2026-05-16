@@ -31,7 +31,7 @@ const aiEngineer = {
 ## 🚀 What I'm Up To
 
 - 🔭 Currently working on **AI Security Applications & RAG Pipelines**
-- 🎓 Pursuing **B.Tech in AI & Data Science** (CGPA: 8.61)
+- 🎓 Pursuing **B.Tech in AI & Data Science** (CGPA: 8.78)
 - 🌱 Learning **Advanced Deep Learning & High-Performance Computing**
 - 👯 Looking to collaborate on **AI Research & Open Source ML Projects**
 - 💬 Ask me about **Machine Learning, Computer Vision, Robotics, or AI Applications**
