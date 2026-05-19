@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sharukesh M!
+# 👋 Hey there, I'm Sharukesh!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=100&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Machine+Learning+Engineer+%F0%9F%A7%A0;Robotics+Enthusiast+%F0%9F%A4%96;Deep+Learning+Specialist+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
@@ -14,30 +14,33 @@
 
 ```typescript
 const aiEngineer = {
-    name: "Sharukesh M",
+    name: "Sharukesh",
     education: "B.Tech in AI & Data Science",
     university: "Amrita School of AI, Amrita Vishwa Vidyapeetham",
-    cgpa: "8.61",
-    location: "Coimbatore, India",
+    cgpa: "8.78",
+    location: "Chennai/Coimbatore, India",
     role: "AI Application Engineer",
-    specialization: ["Machine Learning", "Deep Learning", "Computer Vision", "Robotics"],
-    languages: ["Python", "Java", "C/C++"],
+    specialization: ["Machine Learning", "Deep Learning", "Computer Vision"],
+    languages: ["Python", "Java", "C"],
     currentFocus: "Building intelligent systems that benefit society",
-    recentWork: "AI plugins for Microsoft Security Copilot at Incept AI",
+    recentWork: "participating in DevTrails 2026",
     funFact: "I built a gesture-controlled robot for the Territorial Army! 🤖"
 };
 ```
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on **AI Security Applications & RAG Pipelines**
+- 🔭 Currently working on **AI Applications & RAG Pipelines**
 - 🎓 Pursuing **B.Tech in AI & Data Science** (CGPA: 8.78)
 - 🌱 Learning **Advanced Deep Learning & High-Performance Computing**
 - 👯 Looking to collaborate on **AI Research & Open Source ML Projects**
-- 💬 Ask me about **Machine Learning, Computer Vision, Robotics, or AI Applications**
+- 💬 Ask me about **Machine Learning, Computer Vision, or AI Applications**
 - 📫 Reach me at: **shaukesh@gmail.com**
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills 
+<details>
+<summary><b>(Click to expand)</b></summary>
+<br />
 
 <div align="center">
 
@@ -73,6 +76,8 @@ const aiEngineer = {
 [![other tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,linux)](https://skillicons.dev)
 </div>
 
+</details>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,13 +95,10 @@ const aiEngineer = {
   <img src="https://github-profile-trophy.vercel.app/?username=Sharukesh3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharukesh3&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-## 🎯 Academic Projects Portfolio
+## 🎯 Academic Projects Portfolio 
+<details>
+<summary><b>(Click to expand)</b></summary>
+<br />
 
 <div align="center">
 
@@ -113,6 +115,8 @@ const aiEngineer = {
 
 </div>
 
+</details>
+
 ## 🎓 Education & Certifications
 
 **🎓 B.Tech in Artificial Intelligence & Data Science**  
@@ -123,7 +127,7 @@ const aiEngineer = {
 ## 🎯 Current Goals
 
 - [ ] Contribute to major AI/ML open source projects
-- [ ] Publish research papers in top-tier conferences
+- [ ] Publish research papers in top-tier journals
 - [X] Build production-ready AI applications
 
 
@@ -131,7 +135,7 @@ const aiEngineer = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharukesh-mahendran-0726212b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharukesh3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharukesh3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaukesh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharukesh.tech)
