@@ -78,7 +78,10 @@ const aiEngineer = {
 
 </details>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
+<details>
+<summary><b>(Click to expand)</b></summary>
+<br />
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Sharukesh3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="195" />
@@ -89,11 +92,18 @@ const aiEngineer = {
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sharukesh3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </p>
 
+</details>
+
 ## 🏆 GitHub Achievements
+<details>
+<summary><b>(Click to expand)</b></summary>
+<br />
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sharukesh3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
+
+</details>
 
 ## 🎯 Academic Projects Portfolio 
 <details>
