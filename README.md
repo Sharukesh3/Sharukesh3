@@ -75,14 +75,14 @@ const aiEngineer = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharukesh3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharukesh3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sharukesh3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=Sharukesh3&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharukesh3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sharukesh3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+</p>
 
 ## 🏆 GitHub Achievements
 
@@ -120,17 +120,6 @@ const aiEngineer = {
 
 **📜 Pursuing Diploma in Programming and Data Science**
 
-## 🌟 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/Sharukesh3/Skin-Lesion-Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharukesh3&repo=Skin-Lesion-Classification&theme=tokyonight&hide_border=true" alt="Microbiome Analysis" />
-  </a>
-  <a href="https://github.com/Sharukesh3/LLM-for-hydrogen-storage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharukesh3&repo=LLM-for-hydrogen-storage&theme=tokyonight&hide_border=true" alt="Gesture Robot" />
-  </a>
-</div>
-
 ## 🎯 Current Goals
 
 - [ ] Contribute to major AI/ML open source projects
@@ -160,5 +149,5 @@ const aiEngineer = {
 </div>
 
 <div align="center">
-  <sub>🤖 Interested in AI research collaboration? Let's connect!</sub>
+  <sub>Interested in AI research collaboration? Let's connect!</sub>
 </div>
